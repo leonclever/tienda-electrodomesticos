@@ -1,0 +1,15 @@
+{
+    "name": "Java and Angular Dev Container",
+    "image": "mcr.microsoft.com/vscode/devcontainers/java:0-17",
+    "settings": {
+      "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "extensions": [
+      "vscjava.vscode-java-pack",
+      "vscjava.vscode-spring-initializr",
+      "vscjava.vscode-spring-boot-dashboard",
+      "vscjava.vscode-maven"
+    ],
+    "postCreateCommand": "npm install"
+  }
+  

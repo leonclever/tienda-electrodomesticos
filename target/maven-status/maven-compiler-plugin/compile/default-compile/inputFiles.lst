@@ -1,0 +1,12 @@
+/workspaces/tienda-electrodomesticos/src/main/java/com/tienda/electrodomesticos/ElectrodomesticosApplication.java
+/workspaces/tienda-electrodomesticos/src/main/java/com/tienda/electrodomesticos/controller/OrderController.java
+/workspaces/tienda-electrodomesticos/src/main/java/com/tienda/electrodomesticos/controller/ProductController.java
+/workspaces/tienda-electrodomesticos/src/main/java/com/tienda/electrodomesticos/model/Customer.java
+/workspaces/tienda-electrodomesticos/src/main/java/com/tienda/electrodomesticos/model/Order.java
+/workspaces/tienda-electrodomesticos/src/main/java/com/tienda/electrodomesticos/model/Product.java
+/workspaces/tienda-electrodomesticos/src/main/java/com/tienda/electrodomesticos/repository/CustomerRepository.java
+/workspaces/tienda-electrodomesticos/src/main/java/com/tienda/electrodomesticos/repository/OrderRepository.java
+/workspaces/tienda-electrodomesticos/src/main/java/com/tienda/electrodomesticos/repository/ProductRepository.java
+/workspaces/tienda-electrodomesticos/src/main/java/com/tienda/electrodomesticos/service/CustomerService.java
+/workspaces/tienda-electrodomesticos/src/main/java/com/tienda/electrodomesticos/service/OrderService.java
+/workspaces/tienda-electrodomesticos/src/main/java/com/tienda/electrodomesticos/service/ProductService.java
